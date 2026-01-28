@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# William Nurrenbern
 
-# Your Github username
+# williamnurrenbern-goodday
